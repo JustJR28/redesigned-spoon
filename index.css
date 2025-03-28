@@ -22,7 +22,7 @@ body {
 header {
     width: 100%;
     height: fit-content;
-    background-image: url("/Portfolio /images/285779bbc5c769b076ed8c2a0a8d485a_1.jpg");
+    background-image: url("../images/285779bbc5c769b076ed8c2a0a8d485a_1.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
